@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ö”ùÿÿÿÿ8ìÔ”¶ˆ2
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(†’ıÿÿÿÿJ$22bdbd6b-5eee-4a95-9531-9121a2a6a640
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(è•»ÜÿÿÿÿÿJ$6568955c-0e3e-4fcd-b9a5-a14ee941954a
+}
+java:S1128"ARemove this unused import 'org.aspectj.lang.ProceedingJoinPoint'.(ç—ÂûJ$f991270e-f428-4bb5-80be-d1c62a20ac7f
+€
+java:S1128"?Remove this unused import 'org.aspectj.lang.annotation.Around'.(ï°ŒşûÿÿÿÿJ$78003257-4dac-4765-b5cd-64942c46b287
+k
+java:S1068"*Remove this unused "logger" private field.(§Êú“ıÿÿÿÿJ$d14240b2-1c8b-4bef-8c53-7826aeb15460

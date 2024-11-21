@@ -1,0 +1,9 @@
+
+d
+java:S1192"OUse already-defined constant 'MANGALORE' instead of duplicating its value here.(¡ÕÊn
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡±Úªüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡±Úªüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÄÔºÀ
+E	java:S106"+Replace this use of System.out by a logger.(¡±Úªüÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¡ÕÊn

@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î¡Êúÿÿÿÿ8ñ±ˆ‹2J$d5de61c3-6040-44d0-9736-f8136becd04f
+^
+java:S1700"Rename field "sharedBuffer"(±Ğœ8ñ±ˆ‹2J$dcb2d069-3792-453a-9492-fa1a4af7916f
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ñ±ˆ‹2J$e84f01c4-f218-478d-95bd-ded54daabd48
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8î‡³ˆ‹2J$2d6a3a12-cd92-40ee-a6ce-c6499690c12d

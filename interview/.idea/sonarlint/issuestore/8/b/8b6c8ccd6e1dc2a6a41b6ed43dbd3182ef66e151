@@ -1,0 +1,20 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ö”ùÿÿÿÿ8Íö’¶ˆ2J$7232f7b5-9669-46e8-a9c5-de478411b90c
+˜
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(”Å¶éJ$0d7a9e97-4258-495d-af07-0e812c0e5d93
+x
+java:S2629"7Use the built-in formatting to construct this argument.(—±Ó¬üÿÿÿÿJ$470c59a2-373e-49c5-8060-bfb4306914b3
+˜
+java:S2629 "\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¤ô³J$f1629057-f14f-47b3-b9d4-73cde19a35be
+
+java:S2629%"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÂÜŠÿÿÿÿÿJ$e66e308d-5258-4bc0-a67d-1a96a7cda614
+x
+java:S2629*"7Use the built-in formatting to construct this argument.(—±Ó¬üÿÿÿÿJ$b9c15bb0-c984-4a9f-9da4-3e400a0c521c
+˜
+java:S2629+"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¤ô³J$eefab4be-ec92-48a1-8688-1bb12b250a6e
+˜
+java:S26296"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÿèİœJ$127cddb4-f444-47bc-b903-bd0d0a77f91f
+‡
+java:S34570"KFormat specifiers or lambda should be used instead of string concatenation.(¶é™ÆJ$fd0b6bc5-0494-4b1e-9010-792f48403a88
+‡
+java:S34576"KFormat specifiers or lambda should be used instead of string concatenation.(ÿèİœJ$f96d5a27-aaa1-407b-acb9-a5a5ce3788e2

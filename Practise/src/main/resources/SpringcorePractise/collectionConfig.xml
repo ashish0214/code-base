@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean class="SpringCorePractise.CollectionUsingSetters.Items" name="itemList">
+        <property name="id" value="1"/>
+        <property name="items">
+            <list>
+            <value>pen</value>
+            <value>book</value>
+                <value>pen</value>
+                <value>book</value>
+            </list>
+        </property>
+
+        <property name="names" >
+            <set>
+                <value>pen</value>
+                <value>book</value>
+                <value>pen</value>
+                <value>book</value>
+            </set>
+        </property>
+
+        <property name="element">
+            <map>
+                <entry key="1" value="phone"/>
+                <entry key="2" value="phone"/>
+                <entry key="3" value="phone"/>
+            </map>
+        </property>
+    </bean>
+
+
+    <bean class="SpringCorePractise.CollectionUsingSetters.Cart" name="cartList">
+        <property name="cart_id" value="2"/>
+        <property name="item_List" ref="itemList"/>
+    </bean>
+
+</beans>

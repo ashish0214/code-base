@@ -1,0 +1,13 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹ûâœûÿÿÿÿ8ƒ¶š´ø1J$1d233894-a848-4446-bbfa-04e3abdb1022
+{
+java:S1854"8Remove this useless assignment to local variable "demo".(äÛÁÒ8•¶š´ø1J$2407cb57-7875-45d7-80b1-273324a8d480
+l
+java:S1481")Remove this unused "demo" local variable.(äÛÁÒ8•¶š´ø1J$a1fbd5cb-e20a-46e3-b51c-4ff944169015
+r	java:S106"+Replace this use of System.out by a logger.(ØÓÜ¥şÿÿÿÿ8•¶š´ø1J$4fab1ebd-f610-4f89-8b6e-abd824eb7f55
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8£¶š´ø1J$5132cea2-bae9-429e-afcb-de19e7576150
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Ç©ÿÅÿÿÿÿÿ8£¶š´ø1J$074c94ef-614d-44bf-9b71-cd23a0ed018f
+h
+java:S1481"&Remove this unused "i" local variable.(›º<8£¶š´ø1J$4615ad03-2d0b-4dda-bb32-c7e6b75b1a00
+r	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8£¶š´ø1J$d878b530-8394-4c2d-a0c2-eb6c2046976f

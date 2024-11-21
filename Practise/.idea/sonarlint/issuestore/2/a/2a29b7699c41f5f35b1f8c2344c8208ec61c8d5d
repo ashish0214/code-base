@@ -1,0 +1,6 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ

@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş×ÅÌ8Èšâæ‰2J$7a40e6f7-033b-40f5-874f-5fe95c34c01d
+o
+java:S1172",Remove this unused method parameter "speed".(ó¥ßŠ8¿‚ãæ‰2J$fcfd0636-7732-4c05-b42b-50814b577749
+m	java:S106"+Replace this use of System.out by a logger.(ê¾ö8Èšâæ‰2J$f20817f0-13f4-4396-911d-c94c8bdae406
+T
+java:S1854"7Remove this useless assignment to local variable "car".(”‘Ü¬8³ãæ‰2
+E
+java:S1481"(Remove this unused "car" local variable.(”‘Ü¬8³ãæ‰2
+]	java:S125"<This block of commented-out lines of code should be removed.(èÈìúÿÿÿÿ8³ãæ‰2
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8³ãæ‰2

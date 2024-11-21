@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸º8¸¿ÿŠ2J$da69bea8-a8a2-44eb-b7e3-00779c070322
+œ
+java:S1845$"TRename method "getdays" to prevent any misunderstanding/clash with method "getDays".(×º¾ûÿÿÿÿ8—½ÂÿŠ2J$22b07736-13a5-4bd9-92f6-4f95c4932e3b
+Ÿ
+java:S4144$"WUpdate this method so that its implementation is not identical to "getDays" on line 17.(×º¾ûÿÿÿÿ8—½ÂÿŠ2J$80ad7603-280d-43e8-8bdb-05ac698a110e
+u
+java:S1172"2Remove this unused method parameter "basicsalary".(³“µà8‹ØÁÿŠ2J$b08b7d3e-57a6-43b2-b3c1-2fa6ee60acc4
